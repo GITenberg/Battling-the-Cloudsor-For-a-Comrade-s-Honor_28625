@@ -1,0 +1,24 @@
+_repo: Battling-the-Cloudsor-For-a-Comrade-s-Honor_28625
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28625-h/images/cover001-500dpi.jpg
+creator:
+  author:
+    agent_name: Cobb, Frank
+    gutenberg_agent_id: '33453'
+    url: http://www.gutenberg.org/2009/agents/33453
+description: ''
+gutenberg_issued: '2009-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28625'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aeronautics -- Juvenile fiction'
+- !lcc 'PZ'
+title: Battling the Clouds; or, For a Comrade's Honor
+url: http://www.gutenberg.org/ebooks/28625
